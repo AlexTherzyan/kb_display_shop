@@ -1,0 +1,187 @@
+a:2:{s:4:"data";s:2960:"
+
+
+<li>
+    <a href="category/aviation-display">Авиационные дисплеи</a>
+            <ul>
+            
+
+
+<li>
+    <a href="category/format-1-1">формат 1:1</a>
+    </li>
+
+
+
+<li>
+    <a href="category/format-16-9">формат 16:9</a>
+    </li>
+
+
+
+<li>
+    <a href="category/format-4-3">формат 4:3</a>
+    </li>
+        </ul>
+    </li>
+
+
+
+<li>
+    <a href="category/megvid-prim-display">Видеомониторы межвидового применения</a>
+            <ul>
+            
+
+
+<li>
+    <a href="category/format-4-3m">формат 4:3</a>
+    </li>
+
+
+
+<li>
+    <a href="category/format-16-9m">формат 16:9</a>
+    </li>
+
+
+
+<li>
+    <a href="category/format-corpus-none">Бескорпусные</a>
+    </li>
+        </ul>
+    </li>
+
+
+
+<li>
+    <a href="category/industrial-monitor">Промышленные видеомониторы</a>
+            <ul>
+            
+
+
+<li>
+    <a href="category/format-16-9p">Формат 16:9</a>
+    </li>
+
+
+
+<li>
+    <a href="category/format-4-3p">Формат 4:3</a>
+    </li>
+        </ul>
+    </li>
+
+
+
+<li>
+    <a href="category/mikrodisp-indication">Микродисплейные системы индикации</a>
+            <ul>
+            
+
+
+<li>
+    <a href="category/monocular">Монокулярные</a>
+    </li>
+
+
+
+<li>
+    <a href="category/binocular">Бинокулярные</a>
+    </li>
+
+
+
+<li>
+    <a href="category/none-corpus">Бескорпусные</a>
+    </li>
+        </ul>
+    </li>
+
+
+
+<li>
+    <a href="category/evm">ЭВМ специального назначения</a>
+            <ul>
+            
+
+
+<li>
+    <a href="category/tablet">Планшетные</a>
+    </li>
+
+
+
+<li>
+    <a href="category/nosimye">Носимые</a>
+    </li>
+
+
+
+<li>
+    <a href="category/panel">Панельные</a>
+    </li>
+
+
+
+<li>
+    <a href="category/system-block">Системные блоки</a>
+    </li>
+
+
+
+<li>
+    <a href="category/aviation">Авиационные</a>
+    </li>
+
+
+
+<li>
+    <a href="category/yni-tablet-evm">Уницфицированные панельные ЭВМ</a>
+    </li>
+        </ul>
+    </li>
+
+
+
+<li>
+    <a href="category/rugged-computer">Защищенные компьютеры</a>
+            <ul>
+            
+
+
+<li>
+    <a href="category/format-4-3r">Формат 4:3</a>
+    </li>
+
+
+
+<li>
+    <a href="category/format-16-9r">Формат 16:9</a>
+    </li>
+        </ul>
+    </li>
+
+
+
+<li>
+    <a href="category/it">IT-решения для визуализации</a>
+    </li>
+
+
+
+<li>
+    <a href="category/lcd">ЖК-матрицы</a>
+    </li>
+
+
+
+<li>
+    <a href="category/other-product">Прочая продукция</a>
+    </li>
+
+
+
+<li>
+    <a href="category/category">Категории</a>
+    </li>
+";s:8:"end_time";i:1531388548;}

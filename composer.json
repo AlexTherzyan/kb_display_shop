@@ -1,0 +1,14 @@
+
+{
+  "autoload": {
+    "psr-4": {
+      "display_shop\\" : "vendor/display_shop/core",
+
+      "app\\" : "app"
+    }
+  },
+  "require" : {
+    "gabordemooij/redbean": "dev-master"
+  }
+}
+
